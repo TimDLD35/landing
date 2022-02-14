@@ -1,0 +1,12 @@
+.collection {
+	width: 500px;
+	display: flex;
+	margin-bottom: 50px;
+}
+
+.collection h4 {
+	color: green;
+	display: flex;
+	flex-grow: 1;
+	font-size: 30px;
+}
